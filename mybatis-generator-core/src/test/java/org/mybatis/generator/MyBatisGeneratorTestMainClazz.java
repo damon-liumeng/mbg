@@ -15,9 +15,8 @@
  */
 package org.mybatis.generator;
 
-import org.junit.Test;
 import org.mybatis.generator.api.MyBatisGenerator;
-import org.mybatis.generator.config.*;
+import org.mybatis.generator.config.Configuration;
 import org.mybatis.generator.config.xml.ConfigurationParser;
 import org.mybatis.generator.exception.InvalidConfigurationException;
 import org.mybatis.generator.internal.DefaultShellCallback;
